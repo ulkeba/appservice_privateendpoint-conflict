@@ -18,3 +18,7 @@ From the VM, calling the three services show following result:
 # Deployment
 - Create your own copy of `demo.parameters.json`
 - Invoke deployment with `az deployment sub create` (see `deploy.sh`)
+
+
+# Help...
+...is near, see [cthoenes/azure-coredns-forwarder-sample](https://github.com/cthoenes/azure-coredns-forwarder-sample).
